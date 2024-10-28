@@ -1,1 +1,16 @@
 # CS-255
+
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+  The DriverPass project involved designing a system to facilitate driving lessons for their students with an online system. The client wanted to offer a digital platform where students can take driving practice tests and schedule behind the wheel training with instructors to improve their driving skils prior to taking the DMV test for their license. 
+  
+What did you do particularly well?
+  In the DriverPass project, I was able to design a system that broke down requirements and translated them into a non-technical overview for the client. This approach helped bridge the gap between technical jargon and the client’s understanding, ensuring they could grasp the essential features and functionalities of the system without getting lost in complex terminology.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  One aspect I would improve is the inclusion of more detailed error handling procedures and how to communicate these challenges to the client using non-technical language. By elaborating on how the system will catch and manage errors, I could enhance the client's understanding of potential issues and their resolutions. This would empower the business owner and IT officer to address any unforeseen errors more effectively, ensuring they are better equipped to maintain the system after implementation. 
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+  In reviewing the interview with the client and project managers, I gained valuable insights into how the system should support the student effectively. The client emphasized the importance of his vision that allows students to easily navigate through the system, access course materials, and track their progress and able to schedule behind the wheel training. This feedback highlighted the necessity of incorporating features such as intuitive menus, clear instructions, and overall design to enhance the user experience. By understanding the client's perspective, I was able to translate these needs into practical design elements that prioritize student engagement and accessibility. Addressing user needs in the design process is crucial because it ensures that the final product not only meets technical specifications but also provides a seamless experience
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+  My approach to designing software begins with thoroughly understanding user requirements, as they form the foundation for a successful project. I take a systematic approach to translate the client’s vision into functional specifications, ensuring that all aspects of the project are aligned with the users' needs. Technique I would use is conducting interviews, gathering feedback, and creating personas to represent different segments of the project. Agile methodology is a major aspect to designing software that meets a client's needs. This approach helps refine the project that is user-centric and addresses the needs of the client. 
